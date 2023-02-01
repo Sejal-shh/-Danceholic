@@ -1,6 +1,6 @@
-# Danceify
+# Danceholic
 
-Danceify is a website where users can learn how to dance with Machine Learning
+ Danceholic is a website where users can learn how to dance with Machine Learning
 
 ## Live Project
 [https://danceify.vercel.app/](https://danceify.vercel.app/)
