@@ -45,7 +45,7 @@ function Home() {
     return ( 
         <div>
             <Box>
-            <H1>DANCEIFY</H1>
+            <H1>DANCEHOLIC</H1>
             <H3>Learn how to dance with Machine Learning</H3>
             <Link to='/levels'>
                 <Button>Let's Dance!</Button>
